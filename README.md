@@ -39,7 +39,7 @@ PrivateSessions is designed for members interested in one-on-one training with a
 
 
 Data Model:
-<img width="574" alt="Gym Data Model" src="https://github.com/user-attachments/assets/e3f32985-62e2-405b-9f67-eab0020541ba" />
+![PNG image](https://github.com/user-attachments/assets/9ba72261-d399-4e10-9b93-deb4f82fe1d5)
 
 
 Data Dictionary:
