@@ -44,9 +44,6 @@ Data Model:
 
 Data Dictionary:
 <img width="777" alt="Screenshot 2025-02-17 at 9 28 42 AM" src="https://github.com/user-attachments/assets/cd4caf58-a534-40ef-86aa-e8d2bcd25803" />
-<img width="878" alt="Screenshot 2025-03-14 at 11 47 01 AM" src="https://github.com/user-attachments/assets/55cc56c8-e072-4952-8599-3ee9c8dfdd1f" />
-<img width="878" alt="Screenshot 2025-03-14 at 11 46 32 AM" src="https://github.com/user-attachments/assets/b14f1e7b-a33f-42de-b290-c21aa236254c" />
-
 
 Ten Queries(6 complex 4 simple):
 
