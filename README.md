@@ -70,6 +70,15 @@ The equipment in our gyms is the core product we offer to our members, and fault
 
 The purpose of Query 2 is to track feedback for our strength trainers and endurance trainers who lead group classes. We aim to capture all relevant information about these trainers, the classes they teach, and their average survey ratings. By monitoring this data—particularly each trainer’s average score—we can assess their performance and determine if any coaching or adjustments are needed to enhance their effectiveness.
 
+Query 3: # Get the surveyID and rating for surveys of large classes (More than 20 people) that have a higher rating than the average rating of all classes offered 
+
+![image](https://github.com/user-attachments/assets/6d645c58-099e-426a-8c7b-2375c6733009)
+![image](https://github.com/user-attachments/assets/0f846170-bd11-45de-b6ec-2c9407634975)
+
+
+Query 3 lists the survey IDs of all large group classes ( More than 20 people in the class) that have an above average rating compared to all the surveys. This is important to us so we can see how people feel about our larger sized group classes in comparison to other classes we offer. This will help us make decisions about which classes aren't being affected by the large size and do not need to be reduced to a smaller capacity.
+
+
 Query 5: #Retrieve the total number of members per membership plan and sort in descending order: CALL TP_Q5();  
 <img width="807" alt="Screenshot 2025-03-17 at 11 32 11 AM" src="https://github.com/user-attachments/assets/7cba7469-c76b-4a49-a9be-178404da4726" />
 
