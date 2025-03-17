@@ -70,6 +70,16 @@ The equipment in our gyms is the core product we offer to our members, and fault
 
 The purpose of Query 2 is to track feedback for our strength trainers and endurance trainers who lead group classes. We aim to capture all relevant information about these trainers, the classes they teach, and their average survey ratings. By monitoring this data—particularly each trainer’s average score—we can assess their performance and determine if any coaching or adjustments are needed to enhance their effectiveness.
 
+Query 5: #Retrieve the total number of members per membership plan and sort in descending order: CALL TP_Q5();  
+<img width="807" alt="Screenshot 2025-03-17 at 11 32 11 AM" src="https://github.com/user-attachments/assets/7cba7469-c76b-4a49-a9be-178404da4726" />
+
+Query 6: #Find Members Who Have Never Signed Up for a Class or a Private Session: CALL TP_Q6();  
+<img width="704" alt="Screenshot 2025-03-17 at 11 40 29 AM" src="https://github.com/user-attachments/assets/c1f994ce-d061-417d-a8e7-0d02e233b5f8" />
+
+Query 7: #Find all equipment in a specific gym: CALL TP_Q7();
+<img width="456" alt="Screenshot 2025-03-17 at 11 42 19 AM" src="https://github.com/user-attachments/assets/ff74a3b9-5a39-47f3-8ab8-ae328bc468ec" />
+
+
 8. Query 8 lists each gym's ID, its location, a count of the members associated with that gym, and the sum of the payment amounts made by each member for that gym. The count of members is aliased as "TotalRevenue" and the sum of payments is aliased as "TotalRevenue". The results are ordered by total revenue in ascending order.
    
 <img width="1290" alt="Screenshot 2025-03-16 at 11 02 03 PM" src="https://github.com/user-attachments/assets/6174b0a3-4366-4aed-becb-f022180f85a0" />
