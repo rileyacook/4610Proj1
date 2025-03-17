@@ -51,6 +51,12 @@ Data Dictionary:
 
 <img width="793" alt="Screenshot 2025-03-16 at 9 03 28 PM" src="https://github.com/user-attachments/assets/675f1487-650a-4819-a525-851dae07337d" />
 
+<img width="883" alt="Screenshot 2025-03-17 at 11 27 51 AM" src="https://github.com/user-attachments/assets/8878a3a8-c4ca-47bf-aa34-527fb95e976a" />
+
+<img width="879" alt="Screenshot 2025-03-17 at 11 28 21 AM" src="https://github.com/user-attachments/assets/201d249a-1052-4932-8ba2-54badcd59c0f" />
+
+
+
 Ten Queries(6 complex 4 simple):
 <img width="788" alt="Screenshot 2025-03-16 at 11 10 26 PM" src="https://github.com/user-attachments/assets/17a943f2-c139-4fce-894c-396bda7019a9" />
 1. Query 1 lists each gym's ID, the number of pieces of equipment that are "Under Maintenance" or "Needs Repair", and equipmenth that is at least 2 years old (as of 2025- March - 14). These pieces of equipment are to be labeled as "Urgent Needs". Group each piece of "Urgent Needs" equipment into its respective gym, and order the count of "Urgent Needs" in a descending order.
