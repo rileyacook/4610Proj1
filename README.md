@@ -60,7 +60,7 @@ The equipment in our gyms is the core product we offer to our members, and fault
 
 2. Query 2 lists every trainer's ID and their last and first names. Alongside names and ID, we listed the classes they teach, labeled by the class' ID, class' room number, and class' name. Lastly, we are interested in the average survey score of that trainer and the respective class, labeled as "Average Rating". We are interested in our trainers who specialize in any "Strength" or "Endurance" area of focus. We grouped the results by the trainer's ID, the class ID and class name they are in charge of. The Average Rating of survey scores is ordered in a descending manner.
 
-<img width="1440" alt="Screenshot 2025-03-17 at 9 33 17 AM" src="https://github.com/user-attachments/assets/b66023b8-e578-4456-9657-dd2758e341c5" />
+<img width="737" alt="Screenshot 2025-03-17 at 9 44 49 AM" src="https://github.com/user-attachments/assets/a10dffbd-9e89-4db4-9b4c-a700d9c5f0d4" />
 
 The purpose of Query 2 is to track feedback for our strength trainers and endurance trainers who lead group classes. We aim to capture all relevant information about these trainers, the classes they teach, and their average survey ratings. By monitoring this data—particularly each trainer’s average score—we can assess their performance and determine if any coaching or adjustments are needed to enhance their effectiveness.
 
