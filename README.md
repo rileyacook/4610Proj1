@@ -42,11 +42,10 @@ Data Model:
 
 
 Data Dictionary:
+
 <img width="789" alt="Screenshot 2025-03-18 at 5 40 40 PM" src="https://github.com/user-attachments/assets/7bc65cef-a945-44a3-92fb-f976ea397c2a" />
 
 <img width="792" alt="Screenshot 2025-03-18 at 5 41 37 PM" src="https://github.com/user-attachments/assets/2332ab8a-7fef-46a7-8f84-d5ecf24d8a1b" />
-
-<img width="1190" alt="Screenshot 2025-03-18 at 5 26 46 PM" src="https://github.com/user-attachments/assets/341a4d35-7c94-4545-ad4a-d0335e0b0fce" />
 
 <img width="791" alt="Screenshot 2025-03-16 at 12 53 55 AM" src="https://github.com/user-attachments/assets/f57f1f94-3738-4b29-9b30-43af05c3e75b" />
 
