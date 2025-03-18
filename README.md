@@ -109,6 +109,7 @@ This query finds gym members who have not signed up for a class or session, this
 
 Query 7: Lists all classes with their trainers.
 This query organizes and tracks all classes and their respective trainers, making it easy to keep track of past or future classes.
+
 <img width="656" alt="Screenshot 2025-03-18 at 4 53 13 PM" src="https://github.com/user-attachments/assets/ffe7aae3-8b96-4c8c-8af1-bcabd8820540" />
 
 8. Query 8 lists each gym's ID, its location, a count of the members associated with that gym, and the sum of the payment amounts made by each member for that gym. The count of members is aliased as "TotalRevenue" and the sum of payments is aliased as "TotalRevenue". The results are ordered by total revenue in ascending order.
