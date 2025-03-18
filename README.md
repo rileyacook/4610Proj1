@@ -78,8 +78,9 @@ The purpose of Query 2 is to track feedback for our strength trainers and endura
 
 Query 3: # Get the surveyID and rating for surveys of large classes (More than 20 people) that have a higher rating than the average rating of all classes offered 
 
-![image](https://github.com/user-attachments/assets/6d645c58-099e-426a-8c7b-2375c6733009)
-![image](https://github.com/user-attachments/assets/0f846170-bd11-45de-b6ec-2c9407634975)
+![image](https://github.com/user-attachments/assets/ed95efc6-5b00-4d04-a59c-39b4c50554b8)
+![image](https://github.com/user-attachments/assets/0b52e503-6d7f-429f-9316-4441d67281e3)
+
 
 
 Query 3 lists the survey IDs of all large group classes ( More than 20 people in the class) that have an above average rating compared to all the surveys. This is important to us so we can see how people feel about our larger sized group classes in comparison to other classes we offer. This will help us make decisions about which classes aren't being affected by the large size and do not need to be reduced to a smaller capacity.
