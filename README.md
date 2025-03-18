@@ -85,6 +85,14 @@ Query 3: # Get the surveyID and rating for surveys of large classes (More than 2
 
 Query 3 lists the survey IDs of all large group classes ( More than 20 people in the class) that have an above average rating compared to all the surveys. This is important to us so we can see how people feel about our larger sized group classes in comparison to other classes we offer. This will help us make decisions about which classes aren't being affected by the large size and do not need to be reduced to a smaller capacity.
 
+Query 4: Retrieve the average salaries of Receptionists and Sales Associates in all gyms
+
+![image](https://github.com/user-attachments/assets/ea9c4f60-dbf7-4500-b2e7-8cdd7f7a1e59)
+![image](https://github.com/user-attachments/assets/4a0b5bb8-a656-48b4-b646-135867ed2030)
+
+Query 4 will help job interviewers know how much of a salary to offer qualified candidates of either the Receptionist or Sales Associate positions. This way they will have neither overpaid nor underpaid them.
+
+
 
 Query 5: Retrieves the total number of members per membership plan and sorts in descending order.
 This query organizes the number of members in each membership plan and can be used to send emails that specifically cater to the type of membership they have.
