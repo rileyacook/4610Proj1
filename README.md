@@ -79,13 +79,16 @@ Query 3: # Get the surveyID and rating for surveys of large classes (More than 2
 Query 3 lists the survey IDs of all large group classes ( More than 20 people in the class) that have an above average rating compared to all the surveys. This is important to us so we can see how people feel about our larger sized group classes in comparison to other classes we offer. This will help us make decisions about which classes aren't being affected by the large size and do not need to be reduced to a smaller capacity.
 
 
-Query 5: #Retrieve the total number of members per membership plan and sort in descending order: CALL TP_Q5();  
+Query 5: Retrieves the total number of members per membership plan and sorts in descending order.
+This query organizes the number of members in each membership plan and can be used to send emails that specifically cater to the type of membership they have.
 <img width="807" alt="Screenshot 2025-03-17 at 11 32 11 AM" src="https://github.com/user-attachments/assets/7cba7469-c76b-4a49-a9be-178404da4726" />
 
-Query 6: #Find Members Who Have Never Signed Up for a Class or a Private Session: CALL TP_Q6();  
+Query 6: Finds members who have never signed up for a class or a private session.
+This query finds gym members that have not signed up for a class or session, this informaton can be used to send emails to members to encourage them to sign-up.
 <img width="704" alt="Screenshot 2025-03-17 at 11 40 29 AM" src="https://github.com/user-attachments/assets/c1f994ce-d061-417d-a8e7-0d02e233b5f8" />
 
-Query 7: #Find all equipment in a specific gym: CALL TP_Q7();
+Query 7: Find all the equipment in a specific gym.
+This query organizes the equipment for gym 6, which can be used to keep track of the equipment.
 <img width="456" alt="Screenshot 2025-03-17 at 11 42 19 AM" src="https://github.com/user-attachments/assets/ff74a3b9-5a39-47f3-8ab8-ae328bc468ec" />
 
 
