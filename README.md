@@ -111,3 +111,8 @@ Query 8 provides managers with valuable insights into the performance of each gy
 
 Query 9 provides managers with valuable insights into the performance of managers across the different gym locations. It compiles a list of managers within the company and only those managers who make a salary above that of the average salary of all managers. This identifies the company's highest-earning managers and which gym locations have the highest-paid managers. Including the staff members' hire dates also allows managers to compare years of experience to pay granted. These results could help managers indicate any pay disparities among managers or different gym locations.
 
+10. Query 10 lists each class name and its attendance rate which is calculated as the number of members registered for that class divided by the class's maximum capacity multiplied by 100. The returned results are then ordered by their attendence rate in descending order.
+
+<img width="904" alt="Screenshot 2025-03-18 at 6 56 35 PM" src="https://github.com/user-attachments/assets/a1e27a80-96e2-469c-b146-7fe968ffdba1" />
+
+This query allows for each class to be viewed based on how much of their capacity is being filled up. This will allow managers to see which classes are more popular, and they can see which classes are underperforming in terms of attendence. Seeing attendance rates can be beneficial for managers as it allows them to adress low attendance rates and perhaps make changes to the underperforming classes.
