@@ -55,6 +55,11 @@ Data Dictionary:
 
 <img width="879" alt="Screenshot 2025-03-17 at 11 28 21 AM" src="https://github.com/user-attachments/assets/201d249a-1052-4932-8ba2-54badcd59c0f" />
 
+<img width="637" alt="Screenshot 2025-03-18 at 1 14 21 PM" src="https://github.com/user-attachments/assets/b4ec7a1a-bff3-4ffc-a9cf-509959548ded" />
+
+<img width="641" alt="Screenshot 2025-03-18 at 1 15 29 PM" src="https://github.com/user-attachments/assets/ae001905-c4bc-4af6-ad8e-c156af7113ca" />
+
+<img width="639" alt="Screenshot 2025-03-18 at 1 16 06 PM" src="https://github.com/user-attachments/assets/2aff28df-173f-40db-a321-ce189d23a132" />
 
 
 Ten Queries(6 complex 4 simple):
