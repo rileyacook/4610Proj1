@@ -92,10 +92,9 @@ Query 6: Finds members who have never signed up for a class or a private session
 This query finds gym members that have not signed up for a class or session, this informaton can be used to send emails to members to encourage them to sign-up.
 <img width="704" alt="Screenshot 2025-03-17 at 11 40 29 AM" src="https://github.com/user-attachments/assets/c1f994ce-d061-417d-a8e7-0d02e233b5f8" />
 
-Query 7: Find all the equipment in a specific gym.
-This query organizes the equipment for gym 6, which can be used to keep track of the equipment.
-<img width="456" alt="Screenshot 2025-03-17 at 11 42 19 AM" src="https://github.com/user-attachments/assets/ff74a3b9-5a39-47f3-8ab8-ae328bc468ec" />
-
+Query 7: Lists all classes with their trainers.
+This query organizes and tracks all classes and their respective trainers, making it easy to keep track of past or future classes.
+<img width="656" alt="Screenshot 2025-03-18 at 4 53 13 PM" src="https://github.com/user-attachments/assets/ffe7aae3-8b96-4c8c-8af1-bcabd8820540" />
 
 8. Query 8 lists each gym's ID, its location, a count of the members associated with that gym, and the sum of the payment amounts made by each member for that gym. The count of members is aliased as "TotalRevenue" and the sum of payments is aliased as "TotalRevenue". The results are ordered by total revenue in ascending order.
    
