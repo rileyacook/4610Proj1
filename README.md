@@ -75,7 +75,8 @@ PrivateSessions is designed for members interested in one-on-one training with a
 
 ## Queries:
 
-<img width="788" alt="Screenshot 2025-03-16 at 11 10 26 PM" src="https://github.com/user-attachments/assets/17a943f2-c139-4fce-894c-396bda7019a9" />
+![image](https://github.com/user-attachments/assets/03d3530d-1e22-40f8-84bc-79e19f414d4d)
+
 
 1. Query 1 lists each gym's ID, the number of pieces of equipment that are "Under Maintenance" or "Needs Repair", and equipment that is at least 2 years old (as of 2025- March - 14). These pieces of equipment are to be labeled as "Urgent Needs". Group each piece of "Urgent Needs" equipment into its respective gym, and order the count of "Urgent Needs" in a descending order.
 <img width="727" alt="Screenshot 2025-03-17 at 9 10 21 AM" src="https://github.com/user-attachments/assets/040d8e9c-6cc8-45df-871d-06acc88676f5" />
