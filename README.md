@@ -47,7 +47,7 @@ PrivateSessions is designed for members interested in one-on-one training with a
 
 ## Data Dictionary:
 
-![image](https://github.com/user-attachments/assets/2f1fcb4f-998a-47c7-a40d-a935747f28a6)
+![image](https://github.com/user-attachments/assets/6d1eefbb-693f-4aac-92fd-5a584affbdc7)
 
 ![image](https://github.com/user-attachments/assets/e7e94b37-1fc1-44f9-99dc-dda2dd8055e7)
 
